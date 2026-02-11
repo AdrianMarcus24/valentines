@@ -1,11 +1,11 @@
 const photos = [
-  "./assets/photo1.jpg",
-  "./assets/photo2.jpg",
-  "./assets/photo3.jpg",
-  "./assets/photo4.jpg",
-  "./assets/photo5.jpg",
-  "./assets/photo6.jpg",
-  "./assets/photo7.jpg",
+  "../assets/photo1.jpg",
+  "../assets/photo2.jpg",
+  "../assets/photo3.jpg",
+  "../assets/photo4.jpg",
+  "../assets/photo5.jpg",
+  "../assets/photo6.jpg",
+  "../assets/photo7.jpg",
 ];
 
 let index = 0;
